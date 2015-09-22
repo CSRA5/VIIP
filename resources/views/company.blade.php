@@ -4,7 +4,7 @@
 
 @section('content')
 
-<section id="hero">
+<section id="company">
  	<div class="intro_title">
     	<h1 class="animated fadeInDown">Nosotros</h1>
         <p class="animated fadeInDown">Más de 20 años de experiencia nos respaldan</p>

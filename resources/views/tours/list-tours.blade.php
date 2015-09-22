@@ -76,7 +76,7 @@
                 <div class="img_list">
                	 	<a href="single_tour.html">
                 	<img src="img/tours/tour-2.jpg" alt="">
-                	<div class="short_info"><i class="icon_set_1_icon-60"></i>Lugares historicos </div></a>
+                	<div class="short_info"><i class="icon_set_1_icon-44"></i>Lugares historicos </div></a>
                 </div>
 			</div>
 			<div class="clearfix visible-xs-block"></div>

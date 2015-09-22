@@ -81,7 +81,7 @@
                         </a>
                     </div>
                     <div class="tour_title">
-                        <h3><strong>Tour número</strong> 1</h3>
+                        <h3><strong>Tour número</strong> 3</h3>
                         <div class="duration">
                            5 días 4 noches
                         </div>
@@ -105,7 +105,7 @@
                         </a>
                     </div>
                     <div class="tour_title">
-                        <h3><strong>Tour número</strong> 1</h3>
+                        <h3><strong>Tour número</strong> 4</h3>
                         <div class="duration">
                            6 días 5 noches
                         </div>
@@ -128,7 +128,7 @@
                         </a>
                     </div>
                     <div class="tour_title">
-                        <h3><strong>Tour número</strong> 1</h3>
+                        <h3><strong>Tour número</strong> 5</h3>
                         <div class="duration">
                            7 días 6 noches
                         </div>

@@ -297,7 +297,7 @@ a#access_link, a#wishlist_link{
 #wishlist_link:before, #access_link:before{text-indent:0px;font-size:20px;}
 
 #hero {height: 200px;}
-.intro_title{ display:none;}
+
 ul#top_tools{ margin:0 25px 0 0;}
 .sticky ul#top_tools{ margin:0 25px 0 0;}
 .dropdown.dropdown-cart{ display:none;}
@@ -312,6 +312,12 @@ ul#top_tools{ margin:0 25px 0 0;}
 	float:none;
 	margin-top:15px;
 }
+.intro_title{
+	display:inline-block;
+	padding: 110px 0px 0px 0px;
+	vertical-align:middle;
+}
+
 .intro_title.error {
 	display: table-cell;
 }
