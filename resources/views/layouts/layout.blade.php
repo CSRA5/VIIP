@@ -23,7 +23,7 @@
     <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="img/apple-touch-icon-144x144-precomposed.png">
 
     <!-- BASE CSS -->
-    <link href="css/base.css" rel="stylesheet">
+    <link href={{asset('css/base.css') }}  rel="stylesheet">
 
     <!-- Google web fonts -->
    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
@@ -164,12 +164,12 @@
 <div id="toTop"></div><!-- Back to top button -->
 
 <!-- Jquery -->
-<script src="js/jquery-1.11.2.min.js"></script>
-<script src="js/common_scripts_min.js"></script>
-<script src="js/functions.js"></script>
+<script src="{{ asset('js/jquery-1.11.2.min.js') }}"></script>
+<script src="{{ asset('js/common_scripts_min.js') }}"></script>
+<script src="{{ asset('js/functions.js') }}"></script>
 
-<script src="js/modernizr.js"></script>  
-<script src="js/video_header.js"></script>
+<script src="{{ asset('js/modernizr.js') }}"></script>  
+<script src="{{ asset('js/video_header.js') }}"></script>
 <script>
 $(document).ready(function() {
 

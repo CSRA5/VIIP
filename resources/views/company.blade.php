@@ -83,7 +83,7 @@
                 <div class="tour_container">
                     <div class="img_container">
                         <a href="single_tour.html">
-                        <img src="img/home/tour-1.jpg" class="img-responsive" alt="Tour número 1">
+                        <img src="img/tours/tour-1.jpg" class="img-responsive" alt="Tour número 1">
                          <div class="short_info">
                             <i class="icon_set_1_icon-60"></i>Piscos y vinos
                         </div>
@@ -106,7 +106,7 @@
                 <div class="tour_container">
                     <div class="img_container">
                         <a href="single_tour.html">
-                        <img src="img/home/tour-2.jpg" class="img-responsive" alt="">
+                        <img src="img/tours/tour-2.jpg" class="img-responsive" alt="">
                         <div class="short_info">
                             <i class="icon_set_1_icon-44"></i>Lugares Historicos
                         </div>
@@ -129,7 +129,7 @@
                 <div class="tour_container">
                     <div class="img_container">
                         <a href="single_tour.html">
-                        <img src="img/home/tour-3.jpg" class="img-responsive" alt="">
+                        <img src="img/tours/tour-3.jpg" class="img-responsive" alt="">
                         <div class="ribbon popular"></div>
                         <div class="short_info">
                             <i class="icon_set_1_icon-82"></i>Descanso y tranquilidad
@@ -153,7 +153,7 @@
                 <div class="tour_container">
                     <div class="img_container">
                         <a href="single_tour.html">
-                        <img src="img/home/tour-4.jpg" class="img-responsive" alt="">
+                        <img src="img/tours/tour-4.jpg" class="img-responsive" alt="">
                         <div class="ribbon top_rated"></div>
                         <div class="short_info">
                             <i class="icon_set_1_icon-60"></i>Piscos y vinos
@@ -177,7 +177,7 @@
                 <div class="tour_container">
                     <div class="img_container">
                         <a href="single_tour.html">
-                        <img src="img/home/tour-5.jpg" class="img-responsive" alt="">
+                        <img src="img/tours/tour-5.jpg" class="img-responsive" alt="">
                   		 <div class="short_info">
                             <i class="icon_set_1_icon-8"></i>Sol, playa y arena
                         </div>
@@ -202,7 +202,7 @@
                     <div class="img_container">
                         <a href="single_tour.html">
                         <div class="ribbon popular"></div>
-                        <img src="img/home/tour-6.jpg" class="img-responsive" alt="">
+                        <img src="img/tours/tour-6.jpg" class="img-responsive" alt="">
                         <div class="short_info">
                             <i class="icon_set_1_icon-30"></i>A caminar
                         </div>
@@ -225,7 +225,7 @@
                 <div class="tour_container">
                     <div class="img_container">
                         <a href="single_tour.html">
-                        <img src="img/home/tour-7.jpg" class="img-responsive" alt="">
+                        <img src="img/tours/tour-7.jpg" class="img-responsive" alt="">
                           <div class="short_info">
                             <i class="icon_set_1_icon-44"></i>Lugares Historicos
                         </div>

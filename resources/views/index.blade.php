@@ -4,19 +4,15 @@
 
 @section('content')
 
-<section class="header-video">
-  <div id="hero_video">
-	<div class="intro_title" >
-    	<h1 class="animated fadeInDown">Viajes VIP a Ica y Paracas</h1>
-        <p class="animated fadeInDown">La comodidad y confort que mereces</p>
-        <a href="#" class="animated fadeInUp button_intro">Ver tours</a> 
-     
-        <a  href="https://www.youtube.com/watch?v=Zz5cu72Gv5Y" class="video animated fadeInUp button_intro outline">Play video</a>
-    </div>    
- </div>
-    <img src=""  alt="" class="header-video--media" data-video-src=""  data-teaser-source="video/moto" data-provider="Youtube" data-video-width="854" data-video-height="480">		
-</section><!-- End Header video -->
 
+<section id="home">
+    <div class="intro_title">
+        <h1 class="animated fadeInDown">Viajes VIP a Ica y Paracas</h1>
+        <p class="animated fadeInDown">La comodidad y confort que mereces</p>
+         <a href="{{ url('nuestros-tours') }}" class="animated fadeInUp button_intro">Ver tours</a> 
+            
+    </div>
+</section><!-- End hero -->
 
 <div class="container margin_60">
     
@@ -31,7 +27,7 @@
                 <div class="tour_container">
                     <div class="img_container">
                         <a href="single_tour.html">
-                        <img src="img/home/tour-1.jpg" class="img-responsive" alt="Tour número 1">
+                        <img src="img/tours/tour-1.jpg" class="img-responsive" alt="Tour número 1">
                          <div class="short_info">
                             <i class="icon_set_1_icon-60"></i>Piscos y vinos
                         </div>
@@ -54,7 +50,7 @@
                 <div class="tour_container">
                     <div class="img_container">
                         <a href="single_tour.html">
-                        <img src="img/home/tour-2.jpg" class="img-responsive" alt="">
+                        <img src="img/tours/tour-2.jpg" class="img-responsive" alt="">
                         <div class="short_info">
                             <i class="icon_set_1_icon-44"></i>Lugares Historicos
                         </div>
@@ -77,7 +73,7 @@
                 <div class="tour_container">
                     <div class="img_container">
                         <a href="single_tour.html">
-                        <img src="img/home/tour-3.jpg" class="img-responsive" alt="">
+                        <img src="img/tours/tour-3.jpg" class="img-responsive" alt="">
                         <div class="ribbon popular"></div>
                         <div class="short_info">
                             <i class="icon_set_1_icon-82"></i>Descanso y tranquilidad
@@ -101,7 +97,7 @@
                 <div class="tour_container">
                     <div class="img_container">
                         <a href="single_tour.html">
-                        <img src="img/home/tour-4.jpg" class="img-responsive" alt="">
+                        <img src="img/tours/tour-4.jpg" class="img-responsive" alt="">
                         <div class="ribbon top_rated"></div>
                         <div class="short_info">
                             <i class="icon_set_1_icon-60"></i>Piscos y vinos
@@ -125,7 +121,7 @@
                 <div class="tour_container">
                     <div class="img_container">
                         <a href="single_tour.html">
-                        <img src="img/home/tour-5.jpg" class="img-responsive" alt="">
+                        <img src="img/tours/tour-5.jpg" class="img-responsive" alt="">
                   		 <div class="short_info">
                             <i class="icon_set_1_icon-8"></i>Sol, playa y arena
                         </div>
@@ -150,7 +146,7 @@
                     <div class="img_container">
                         <a href="single_tour.html">
                         <div class="ribbon popular"></div>
-                        <img src="img/home/tour-6.jpg" class="img-responsive" alt="">
+                        <img src="img/tours/tour-6.jpg" class="img-responsive" alt="">
                         <div class="short_info">
                             <i class="icon_set_1_icon-30"></i>A caminar
                         </div>
@@ -173,7 +169,7 @@
                 <div class="tour_container">
                     <div class="img_container">
                         <a href="single_tour.html">
-                        <img src="img/home/tour-7.jpg" class="img-responsive" alt="">
+                        <img src="img/tours/tour-7.jpg" class="img-responsive" alt="">
                           <div class="short_info">
                             <i class="icon_set_1_icon-44"></i>Lugares Historicos
                         </div>
@@ -216,7 +212,7 @@
                     <p>
                          Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset.
                     </p>
-                    <a href="about.html" class="btn_1 outline">Conocer más</a>
+                    <a href="{{ url('empresa') }}" class="btn_1 outline">Conocer más</a>
                 </div>
             </div>
             
@@ -227,7 +223,7 @@
                     <p>
                          Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset.
                     </p>
-                    <a href="about.html" class="btn_1 outline">Conocer más</a>
+                    <a href="{{ url('empresa') }}" class="btn_1 outline">Conocer más</a>
                 </div>
             </div>
             
@@ -238,7 +234,7 @@
                     <p>
                          Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset.
                     </p>
-                    <a href="about.html" class="btn_1 outline">Conocer más</a>
+                    <a href="{{ url('empresa') }}" class="btn_1 outline">Conocer más</a>
                 </div>
             </div>
             

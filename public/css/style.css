@@ -3255,6 +3255,9 @@ font-weight:400;
 	right:10px;
 }
 
+/*
+Home
+*/
 .description-place{
 	margin: 0px 10px 0px 10px;
 	text-align: center;
@@ -3267,6 +3270,9 @@ font-weight:400;
 	text-align: center;
 }
 
+/*
+Company
+*/
 .map-company {
   display: block;
   visibility: visible;
@@ -3274,4 +3280,49 @@ font-weight:400;
 
 .margin-adress {
 	padding-top:60px; padding-bottom:10px;
+}
+
+/*
+Tours
+*/
+
+#tour-home {
+    position: relative;
+    height: 600px;
+    background: #4d536d url(../img/tours/tours.jpg) no-repeat center center;
+    background-size: cover;
+    color:#fff;
+	width: 100%;
+	font-size:16px;
+	display:table;
+	z-index:99;
+	text-align:center;
+	text-transform:uppercase;
+}
+
+.night-day{
+	display:block;
+	color:#999;
+	font-size:20px;
+	margin-top:10px;
+}
+/*
+* End tours
+*/
+
+/*
+Home
+*/
+#home {
+    position: relative;
+    height: 600px;
+    background: #4d536d url(../img/home/home.jpg) no-repeat center center;
+    background-size: cover;
+    color:#fff;
+	width: 100%;
+	font-size:16px;
+	display:table;
+	z-index:99;
+	text-align:center;
+	text-transform:uppercase;
 }

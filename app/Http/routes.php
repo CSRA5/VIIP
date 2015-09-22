@@ -21,3 +21,12 @@ Route::get('/', function () {
 Route::get('empresa', function () {
     return view('company');
 });
+
+
+/*
+Tours
+*/
+Route::get('nuestros-tours', function () {
+    return view('tours/list-tours');
+});
+
