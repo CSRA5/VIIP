@@ -12,5 +12,12 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
+});
+
+
+/* Company
+*/
+Route::get('empresa', function () {
+    return view('company');
 });
