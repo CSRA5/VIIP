@@ -154,7 +154,7 @@
                     <div class="img_container">
                         <a href="single_tour.html">
                         <img src="img/tours/tour-4.jpg" class="img-responsive" alt="">
-                        <div class="ribbon top_rated"></div>
+                        
                         <div class="short_info">
                             <i class="icon_set_1_icon-60"></i>Piscos y vinos
                         </div>
