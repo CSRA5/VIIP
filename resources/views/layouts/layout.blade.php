@@ -59,7 +59,7 @@
             <script src="vendor/excanvas/excanvas.js"></script>
         <![endif]-->
 
-    </head>
+    </head>   
 
     <body>
 
@@ -105,6 +105,7 @@
                             </div>
                         </div>
                     </div>
+                    
                     <div class="header-container header-nav header-nav-bar header-nav-bar-primary">
                         <div class="container">
                             <button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main">
@@ -200,7 +201,7 @@
                 </div>
             </footer>
 
-    <!-- Vendor -->
+        <!-- Vendor -->
         <!--[if lt IE 9]>
         <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
         <![endif]-->
@@ -237,8 +238,6 @@
         
         <!-- Theme Initialization Files -->
         <script src="js/theme.init.js"></script>
-
-       
 
      </div>
     </body>

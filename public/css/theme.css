@@ -1881,7 +1881,7 @@ aside ul.nav-list > li > a {
 .slider-container .top-label {
 	color: #FFF;
 	font-size: 24px;
-	font-weight: 300;
+	font-weight: 700;
 }
 
 .slider-container .main-label {
@@ -3657,4 +3657,29 @@ html.boxed .body {
 	html.boxed {
 		background: none !important;
 	}
+}
+
+
+/*Home
+
+*/
+
+.home-info{
+	margin-left: 2em;
+	margin-right: 2em;
+}
+.aling-text-home-info{
+	text-align: right;
+
+}
+
+@media (max-width: 767px) {
+	.aling-text-home-info{
+		text-align: left;
+
+	}
+} 
+
+.buttons-home{
+	width: 40%;	
 }
