@@ -210,7 +210,7 @@
                     <i class="icon_set_1_icon-41"></i>
                     <h3><span>+20</span> Años</h3>
                     <p>
-                         Te aseguran una experiencia única e irrepetible, llena de encanto y misticismo, de la mano de profesionales de gran trayectoria, comprometidos con la satisfacción total de nuestros clientes.
+                         Te aseguran una experiencia única e irrepetible, llena de encanto y misticismo, de la mano de profesionales de gran trayectoria, comprometidos con tu total satisfacción.
                     </p>
                     <a href="{{ url('empresa') }}" class="btn_1 outline">Conocer más</a>
                 </div>
