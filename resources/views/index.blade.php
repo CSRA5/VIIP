@@ -210,7 +210,7 @@
                     <i class="icon_set_1_icon-41"></i>
                     <h3><span>+20</span> Años</h3>
                     <p>
-                         Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset.
+                         Te aseguran una experiencia única e irrepetible, llena de encanto y misticismo, de la mano de profesionales de gran trayectoria, comprometidos con tu total satisfacción.
                     </p>
                     <a href="{{ url('empresa') }}" class="btn_1 outline">Conocer más</a>
                 </div>
@@ -221,7 +221,7 @@
                     <i class="icon_set_1_icon-30"></i>
                     <h3><span>+1000</span> Viajeros</h3>
                     <p>
-                         Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset.
+                         Repaldan nuestro compromiso de brindarte el mejor servicio profesional y personalizado, a la medida de tus necesidades, asegurándote un viaje sin preocupaciones.
                     </p>
                     <a href="{{ url('empresa') }}" class="btn_1 outline">Conocer más</a>
                 </div>
@@ -232,7 +232,8 @@
                     <i class="icon_set_1_icon-18"></i>
                     <h3><span>Comodidad </span> Garantizada</h3>
                     <p>
-                         Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset.
+                         Contamos con modernos vehículos y convenios con distinguidos hoteles en cada uno de nuestros tours, que te garantizan un viaje seguro y una estadía placentera.
+
                     </p>
                     <a href="{{ url('empresa') }}" class="btn_1 outline">Conocer más</a>
                 </div>
@@ -248,7 +249,7 @@
  	 <section class="parallax-window" data-parallax="scroll" data-image-src="img/home/video-ica.jpg" data-natural-width="1400" data-natural-height="470">
     <div class="parallax-content-1 magnific">
         <div>
-            <h3>PERTENECE A DONDE QUIERAS</h3>
+            <h3>TÚ ELIGES A DONDE IR</h3>
           
             <a href="https://www.youtube.com/watch?v=apA8Jtr4cRs" class="video"><i class="icon-play-circled2-1"></i></a>
         </div>
@@ -278,7 +279,7 @@
               		</div>
 
               		<p class="description-place">
-              			Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset. Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in.
+              			Conoce Ica, lugar mágico de oasis y valles, región de la arena y el mar, de santos y brujos, cuna del pisco y del buen vino, paraíso lleno de vida, fiesta, música y color. Su magia espera por ti.
               		</p>
               		<div class="btn-place">
               			<a href="#" class="btn_full">Conocer más</a>
@@ -302,7 +303,7 @@
                   	</div>
 
                   	<p class="description-place">
-              			Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset. Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in.
+              			Explora La Catedral y los misterios que la envuelven, disfruta de la enorme biodiversidad de las Islas Ballestas y el enigma que encierra el Candelabro en la ladera de un cerro que muere en el mar. No esperes más y conoce Paracas.
               		</p>
               		<div class="btn-place">
               			<a href="#" class="btn_full">Conocer más</a>
