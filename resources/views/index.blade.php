@@ -249,7 +249,7 @@
  	 <section class="parallax-window" data-parallax="scroll" data-image-src="img/home/video-ica.jpg" data-natural-width="1400" data-natural-height="470">
     <div class="parallax-content-1 magnific">
         <div>
-            <h3>TÚ ELIGES A DONDE IR</h3>
+            <h3>TÚ ELIGES HACIA DÓNDE IR</h3>
           
             <a href="https://www.youtube.com/watch?v=apA8Jtr4cRs" class="video"><i class="icon-play-circled2-1"></i></a>
         </div>
