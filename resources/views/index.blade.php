@@ -329,7 +329,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-bus"></i>
 										<h4 class="text-uppercase">Seguro flota vehicular</h4>
-										<p>Cubre la flota de vehículos de su empresa ante robo, choque, daño a terceros y otros.</p>
+										<p>Cubre la flota de vehículos de su empresa ante robo, daño a terceros y otros.</p>
 										<p><a href="/" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
