@@ -306,7 +306,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-home"></i>
 										<h4 class="text-uppercase">Seguro domiciliario</h4>
-										<p>Servicio de asistencia domiciliaria en caso de incendio, robo, terremoto y otros.</p>
+										<p>Servicio de asistencia domiciliaria en caso de incendio, robo, entre otros.</p>
 										<p><a href="/" class="lnk-quaternary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -329,7 +329,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-bus"></i>
 										<h4 class="text-uppercase">Seguro flota vehicular</h4>
-										<p>Cubre la flota de vehículos de una empresa ante robo, choque, daño a terceros y otros.</p>
+										<p>Cubre la flota de vehículos de su empresa ante robo, choque, daño a terceros y otros.</p>
 										<p><a href="/" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
