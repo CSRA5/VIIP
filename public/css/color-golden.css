@@ -25,7 +25,7 @@ a {color: #D99230;}
 #search .btn_1.green{background: #D99230;}
 
 /* Header */
-header#colored.sticky{background-color:#D99230; border-bottom:2px solid #D99230}
+header#colored.sticky{background-color:#dfaf1f; border-bottom:2px solid #dfaf1f}
 
 .dropdown-cart .dropdown-menu, .dropdown-access .dropdown-menu, .dropdown-search .dropdown-menu {border-top: 2px solid #D99230;}
 .dropdown-cart .dropdown-menu:before, .dropdown-access .dropdown-menu:before, .dropdown-search .dropdown-menu:before {border-bottom-color: #D99230;}

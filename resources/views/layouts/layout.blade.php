@@ -61,6 +61,16 @@
 
     <!-- Header================================================== -->
     <header id="colored">
+
+    <div id="top_line">
+            <div class="container">
+                <ul id="top_links">
+                     <li><strong>(511) 440-8819/(51) 9856 19968</strong></li>
+                    <li><strong>info@viajesicaparacas.com </strong></li>
+                 </ul>
+            </div><!-- End container-->
+    </div><!-- End top line-->
+
     	
     	<!--Container-->
     	 <div class="container">
@@ -68,7 +78,7 @@
 			 <div class="row">
                 <div class="col-md-3 col-sm-3 col-xs-3">
                     <div id="logo">
-                        <a href="{{url('/')}}"><img src="img/logo.png" width="100" height="44" alt="City tours" data-retina="true" class="logo_normal"></a>
+                        <a href="{{url('/')}}"><img src="img/logo.png" width="149" height="66" alt="City tours" data-retina="true" class="logo_normal"></a>
                         <a href="url('/')"><img src="img/logo-sticky.png" width="100" height="44" alt="City tours" data-retina="true" class="logo_sticky"></a>
                     </div>
                 </div>
@@ -86,15 +96,14 @@
                              <li class="submenu">
                                 <a href="javascript:void(0);" class="show-submenu">Tours<i class="icon-down-open-mini"></i></a>
                                 <ul>
-                                    <li><a href="all_hotels_list.html">Tour número 1</a></li>
-                                    <li><a href="all_hotels_list.html">Tour número 2</a></li>
-                                    <li><a href="all_hotels_list.html">Tour número 3</a></li>
-                                    <li><a href="all_hotels_list.html">Tour número 4</a></li>
-                                    <li><a href="all_hotels_list.html">Tour número 5</a></li>
-                                    <li><a href="all_hotels_list.html">Tour número 6</a></li>
-                                    <li><a href="all_hotels_list.html">Tour número 7</a></li>
-                                    <li><a href="all_hotels_list.html">Tour número 8</a></li>
-
+                                    <li><a href="all_hotels_list.html">Ruta del Pisco</a></li>
+                                    <li><a href="all_hotels_list.html">Full Day Paracas</a></li>
+                                    <li><a href="all_hotels_list.html">Paracas Inolvidable</a></li>
+                                    <li><a href="all_hotels_list.html">Paracas con Sobrevuelo Nazca</a></li>
+                                    <li><a href="all_hotels_list.html">Paracas-Ica Relax</a></li>
+                                    <li><a href="all_hotels_list.html">Ruta del Pisco Delux</a></li>
+                                    <li><a href="all_hotels_list.html">Ica-Paracas Mágicos</a></li>
+                               
                                 </ul>
                             </li>
                             <li class="submenu">
