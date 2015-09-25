@@ -10,7 +10,6 @@
  <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="template, tour template, city tours, city tour, tours tickets, transfers, travel, travel template" />
     <meta name="description" content= "@yield('description')"/>
     <meta name="author" content="Christian Ramirez">
     <title> @yield('title') </title>
@@ -78,15 +77,15 @@
 			 <div class="row">
                 <div class="col-md-3 col-sm-3 col-xs-3">
                     <div id="logo">
-                        <a href="{{url('/')}}"><img src="img/logo.png" width="149" height="66" alt="City tours" data-retina="true" class="logo_normal"></a>
-                        <a href="url('/')"><img src="img/logo-sticky.png" width="100" height="44" alt="City tours" data-retina="true" class="logo_sticky"></a>
+                        <a href="{{url('/')}}"><img src="{{asset('img/logo.png') }}" width="149" height="66" alt="City tours" data-retina="true" class="logo_normal"></a>
+                        <a href="url('/')"><img src="{{asset('img/logo-sticky.png') }}" width="100" height="44" alt="City tours" data-retina="true" class="logo_sticky"></a>
                     </div>
                 </div>
                 <nav class="col-md-9 col-sm-9 col-xs-9">
                     <a class="cmn-toggle-switch cmn-toggle-switch__htx open_close" href="javascript:void(0);"><span>Menu mobile</span></a>
                     <div class="main-menu">
                         <div id="header_menu">
-                            <img src="img/logo.png" width="100" height="44" alt="City tours" data-retina="true">
+                            <img src="{{ asset('img/logo.png') }}" width="100" height="44" alt="City tours" data-retina="true">
                         </div>
                         <a href="#" class="open_close" id="close_in"><i class="icon_set_1_icon-77"></i></a>
                         <ul>
@@ -119,10 +118,10 @@
                             <li class="submenu">
                                 <a href="javascript:void(0);" class="show-submenu">Vehiculos<i class="icon-down-open-mini"></i></a>
                                 <ul>
-                                    <li><a href="all_hotels_list.html">Vehiculo 1</a></li>
-                                    <li><a href="all_hotels_list.html">Vehiculo 2</a></li>
-                                    <li><a href="all_hotels_list.html">Vehiculo 3</a></li>
-                                    <li><a href="all_hotels_list.html">Vehiculo 4</a></li>
+                                    <li><a href="all_hotels_list.html">SW Skoda Europeo</a></li>
+                                    <li><a href="all_hotels_list.html">Chervolet Orlando 4x2</a></li>
+                                    <li><a href="all_hotels_list.html">Van Hyunday H1</a></li>
+                                    <li><a href="all_hotels_list.html">Minibus Mecedez Benz Sprinter</a></li>
                                    
                                 </ul>
                             </li>
@@ -145,12 +144,18 @@
 	  <footer>
         <div class="container">
             <div class="row">
-
+                
+                 <div class="col-md-8 col-sm-9">
+                   <p> <br/><strong>Viajes Ica Paracas</strong> nace con el propósito de brindar un servicio de alta calidad a los turistas más exigentes que desean visitar y conocer la cultura y las maravillas turísticas del Perú.
+                    Pertenecemos a la Agencia de Viajes y Tour Operador <strong>TURINET PERU</strong>, que cuenta con una amplia experiencia en turismo, reconocida por la National Geographic Traveler y la Revista Amura quienes realizaron reportajes al Perú.
+                    </p>
+                 </div>
                 <div class="col-md-4 col-sm-3">
                     <h3>Mas información?</h3>
                     <a href="tel://004542344599" id="phone">+51 01 484-8619</a>
                     <a href="mailto:help@citytours.com" id="email_footer">info@viajesicaparacas.com</a>
                 </div>
+
                                  
             </div><!-- End row -->
             <div class="row">

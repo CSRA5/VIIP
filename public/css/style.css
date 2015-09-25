@@ -80,9 +80,9 @@ h2 span, h3 span, h4 span, h5 span, h6 span{color:#e04f67;}
 
 /*General links color*/
 a {color: #51bce6;text-decoration: none;-webkit-transition: all 0.2s ease;transition: all 0.2s ease; outline:none;}
-a:hover,a:focus {color: #111;text-decoration: none; outline:none;}
+a:hover,a:focus {text-decoration: none; outline:none;}
 
-p {margin: 0 0 20px 0;}
+/*p {margin: 0 0 20px 0;}*/
 
 .nopadding {
 	margin: 0 !important;
@@ -3342,3 +3342,51 @@ Home
 	text-align:center;
 	text-transform:uppercase;
 }
+
+/*
+End Home
+*/
+
+/*Guide
+*/
+#guide-ica {
+    position: relative;
+    height: 600px;
+    background: #4d536d url(../img/guide/ica.jpg) no-repeat center center;
+    background-size: cover;
+    color:#fff;
+	width: 100%;
+	font-size:16px;
+	display:table;
+	z-index:99;
+	text-align:center;
+	text-transform:uppercase;
+}
+
+.head-title{
+	padding: 10px 15px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+}
+
+.background-primary {
+	background-color: #d5a927;
+	border-color: #d5a927;
+	color: white;
+}
+
+.background-secondary{
+	background-color: #ebc12e;
+	border-color: #ebc12e;
+	color: white;
+}
+
+.background-tertiary{
+	background-color: #cc653b;
+	border-color: #cc653b;
+	color: white;
+}
+
+
+
+

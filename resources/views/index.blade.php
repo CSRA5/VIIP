@@ -94,9 +94,8 @@
                     <div class="img_container">
                         <a href="single_tour.html">
                         <img src="img/tours/tour-4.jpg" class="img-responsive" alt="">
-                        <div class="ribbon top_rated"></div>
                         <div class="short_info">
-                            <i class="icon_set_1_icon-60"></i>Piscos y vinos
+                            <i class="icon-flight"></i>A volar
                         </div>
                         </a>
                     </div>
@@ -166,7 +165,7 @@
                         </a>
                     </div>
                     <div class="tour_title">
-                        <h3><strong>Ica-Paracas</strong>Mágicos</h3>
+                        <h3><strong>Ica-Paracas </strong>Mágicos</h3>
                         <div class="duration">
                            3 días 2 noches
                         </div>

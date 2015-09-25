@@ -90,15 +90,13 @@
                         </a>
                     </div>
                     <div class="tour_title">
-                        <h3><strong>Tour número</strong> 1</h3>
+                        <h3><strong>Ruta del</strong> Pisco</h3>
                         <div class="duration">
                            Full Day
                         </div>
-                        <div class="button-tour">
-                            <a href="#" class="btn_1">Quiero ir</a> 
-                        </div>
-                       
+                                                
                     </div>
+                     <a href="#" class="btn_full">Quiero ir</a> 
                 </div><!-- End box tour -->
             </div><!-- End col-md-4 -->
             
@@ -113,15 +111,14 @@
                         </a>
                     </div>
                     <div class="tour_title">
-                        <h3><strong>Tour número</strong> 2</h3>
+                        <h3><strong>Full Day</strong> Paracas</h3>
                         <div class="duration">
-                            4 días 3 noches
+                            Full Day
                         </div>
-                        <div class="button-tour">
-                            <a href="#" class="btn_1">Quiero ir</a> 
-                        </div>
+                         
                        
                     </div>
+                     <a href="#" class="btn_full">Quiero ir</a> 
                 </div><!-- End box tour -->
             </div><!-- End col-md-4 -->
             
@@ -137,15 +134,14 @@
                         </a>
                     </div>
                     <div class="tour_title">
-                        <h3><strong>Tour número</strong> 1</h3>
+                        <h3><strong>Paracas</strong> Inolvidable</h3>
                         <div class="duration">
-                           5 días 4 noches
-                        </div>
-                        <div class="button-tour">
-                            <a href="#" class="btn_1">Quiero ir</a> 
+                           2 días 1 noche
                         </div>
                        
+                       
                     </div>
+                     <a href="#" class="btn_full">Quiero ir</a> 
                 </div><!-- End box tour -->
             </div><!-- End col-md-4 -->
             
@@ -154,22 +150,19 @@
                     <div class="img_container">
                         <a href="single_tour.html">
                         <img src="img/tours/tour-4.jpg" class="img-responsive" alt="">
-                        
                         <div class="short_info">
-                            <i class="icon_set_1_icon-60"></i>Piscos y vinos
+                            <i class="icon-flight"></i>A volar
                         </div>
                         </a>
                     </div>
                     <div class="tour_title">
-                        <h3><strong>Tour número</strong> 1</h3>
+                        <h3><strong>Paracas con sobrevuelo</strong> Nazca</h3>
                         <div class="duration">
-                           6 días 5 noches
+                           2 días 1 noche
                         </div>
-                        <div class="button-tour">
-                            <a href="#" class="btn_1">Quiero ir</a> 
-                        </div>
-                       
+                                             
                     </div>
+                     <a href="#" class="btn_full">Quiero ir</a> 
                 </div><!-- End box tour -->
             </div><!-- End col-md-4 -->
             
@@ -178,21 +171,19 @@
                     <div class="img_container">
                         <a href="single_tour.html">
                         <img src="img/tours/tour-5.jpg" class="img-responsive" alt="">
-                  		 <div class="short_info">
-                            <i class="icon_set_1_icon-8"></i>Sol, playa y arena
+                         <div class="short_info">
+                            <i class="icon_set_1_icon-8"></i>
                         </div>
                         </a>
                     </div>
                     <div class="tour_title">
-                        <h3><strong>Tour número</strong> 1</h3>
+                        <h3><strong>Paracas-Ica</strong> relax</h3><br/>
                         <div class="duration">
-                           7 días 6 noches
+                            2 días 1 noche
                         </div>
-                        <div class="button-tour">
-                            <a href="#" class="btn_1">Quiero ir</a> 
-                        </div>
-                       
+                                                
                     </div>
+                     <a href="#" class="btn_full">Quiero ir</a> 
                 </div><!-- End box tour -->
             </div><!-- End col-md-4 -->
             
@@ -209,15 +200,13 @@
                         </a>
                     </div>
                     <div class="tour_title">
-                        <h3><strong>Tour número</strong> 6</h3>
+                        <h3><strong>Ruta del Pisco</strong> Deluxe</h3>
                         <div class="duration">
-                           8 días 7 noches
+                           2 días 1 noche
                         </div>
-                        <div class="button-tour">
-                            <a href="#" class="btn_1">Quiero ir</a> 
-                        </div>
-                       
+                        
                     </div>
+                     <a href="#" class="btn_full">Quiero ir</a> 
                 </div><!-- End box tour -->
             </div><!-- End col-md-4 -->
             
@@ -232,15 +221,13 @@
                         </a>
                     </div>
                     <div class="tour_title">
-                        <h3><strong>Tour número</strong> 7</h3>
+                        <h3><strong>Ica-Paracas </strong>Mágicos</h3>
                         <div class="duration">
-                           9 días 8 noches
+                           3 días 2 noches
                         </div>
-                        <div class="button-tour">
-                            <a href="#" class="btn_1">Quiero ir</a> 
-                        </div>
-                       
+                                              
                     </div>
+                     <a href="#" class="btn_full">Quiero ir</a> 
                 </div><!-- End box tour -->
             </div><!-- End col-md-4 -->            
           

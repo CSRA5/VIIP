@@ -30,3 +30,17 @@ Route::get('nuestros-tours', function () {
     return view('tours/list-tours');
 });
 
+/*
+End tours
+*/
+
+/*Guide
+*/
+
+Route::get('guia-turistica/ica', function () {
+    return view('guide/ica');
+});
+
+/*
+End Guide*/
+
