@@ -22,7 +22,7 @@
     <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="img/apple-touch-icon-144x144-precomposed.png">
 
     <!-- BASE CSS -->
-    <link href={{asset('css/base.css') }}  rel="stylesheet">
+    <link href="{{asset('css/base.css') }}"  rel="stylesheet">
 
     <!-- Google web fonts -->
    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
@@ -108,8 +108,8 @@
                             <li class="submenu">
                                 <a href="javascript:void(0);" class="show-submenu">Guía Turística <i class="icon-down-open-mini"></i></a>
                                 <ul>
-                                    <li><a href="all_transfer_list.html">Ica</a></li>
-                                    <li><a href="all_transfer_list.html">Paracas</a></li>
+                                    <li><a href="{{ url('guia-turistica/ica') }}">Ica</a></li>
+                                    <li><a href="{{ url('guia-turistica/paracas') }}">Paracas</a></li>
                                 </ul>
                             </li>
                             

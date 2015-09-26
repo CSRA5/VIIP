@@ -2,6 +2,8 @@
 @section('title','VIP- Viajes a Ica y Paracas')
 @section('description','')
 
+@section('content')
+
 <section id="guide-ica">
  	<div class="intro_title">
     	<h1 class="animated fadeInDown">ICA</h1>
@@ -11,19 +13,20 @@
 </section><!-- End hero -->
 
 
-<div class="container margin_30">
-	
-	<div class="fadeIn" data-wow-delay="0.1s">
-	
-		<div class="box_style_2">
-			<p>
-				Ica es conocida por ser la región de la arena y el mar, de oasis y valles, de reservas naturales con gran biodiversidad, de beatos y brujos, de pisco y buen vino, de devociones populares como el Señor de Luren. Fue en estas tierras, en sus arenas, en las que florecieron importantes civilizaciones, dejando huellas que han perdurado con el paso del tiempo. Hoy es centro de una cultura originada por los descendientes de esclavos negros traídos por los españoles, que  dejaron como legado la música afroperuana al mezclar nuestras culturas. Lugar mágico lleno de misterio con gente cálida esperando por ti. 
-			</p>
+<div class="white_bg">
+	<div class="container margin_30">
+		
+		<div class="fadeIn" data-wow-delay="0.1s">
+		
+			<div class="box_style_2">
+				<p>
+					Ica es conocida por ser la región de la arena y el mar, de oasis y valles, de reservas naturales con gran biodiversidad, de beatos y brujos, de pisco y buen vino, de devociones populares como el Señor de Luren. Fue en estas tierras, en sus arenas, en las que florecieron importantes civilizaciones, dejando huellas que han perdurado con el paso del tiempo. Hoy es centro de una cultura originada por los descendientes de esclavos negros traídos por los españoles, que  dejaron como legado la música afroperuana al mezclar nuestras culturas. Lugar mágico lleno de misterio con gente cálida esperando por ti. 
+				</p>
+			</div>
+
 		</div>
 
 	</div>
-
-</div>
 
 <div class="container">
    <div class="panel-group" id="accordion">
@@ -126,7 +129,7 @@
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
 						               	 	<a href="single_tour.html">
-						                	<img src="{{ asset('img/tours/tour-1.jpg') }}" alt=""> 
+						                	<img src="{{ asset('img/guide/guide-1.jpg') }}" alt=""> 
 						                	</a>
 						                </div>
 								   </div>
@@ -152,7 +155,7 @@
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
 						               	 	<a href="single_tour.html">
-						                	<img src="{{ asset('img/tours/tour-1.jpg') }}" alt=""> 
+						                	<img src="{{ asset('img/guide/guide-14.jpg') }}" alt=""> 
 						                	</a>
 						                </div>
 								   </div>
@@ -176,7 +179,7 @@
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
 						               	 	<a href="single_tour.html">
-						                	<img src="{{ asset('img/tours/tour-1.jpg') }}" alt=""> 
+						                	<img src="{{ asset('img/guide/guide-2.jpg') }}" alt=""> 
 						                	</a>
 						                </div>
 								   </div>
@@ -200,7 +203,7 @@
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
 						               	 	<a href="single_tour.html">
-						                	<img src="{{ asset('img/tours/tour-1.jpg') }}" alt=""> 
+						                	<img src="{{ asset('img/guide/guide-3.jpg') }}" alt=""> 
 						                	</a>
 						                </div>
 								   </div>
@@ -224,7 +227,7 @@
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
 						               	 	<a href="single_tour.html">
-						                	<img src="{{ asset('img/tours/tour-1.jpg') }}" alt=""> 
+						                	<img src="{{ asset('img/guide/guide-4.jpg') }}" alt=""> 
 						                	</a>
 						                </div>
 								   </div>
@@ -248,7 +251,7 @@
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
 						               	 	<a href="single_tour.html">
-						                	<img src="{{ asset('img/tours/tour-1.jpg') }}" alt=""> 
+						                	<img src="{{ asset('img/guide/guide-5.jpg') }}" alt=""> 
 						                	</a>
 						                </div>
 								   </div>
@@ -272,7 +275,7 @@
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
 						               	 	<a href="single_tour.html">
-						                	<img src="{{ asset('img/tours/tour-1.jpg') }}" alt=""> 
+						                	<img src="{{ asset('img/guide/guide-7.jpg') }}" alt=""> 
 						                	</a>
 						                </div>
 								   </div>
@@ -296,7 +299,7 @@
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
 						               	 	<a href="single_tour.html">
-						                	<img src="{{ asset('img/tours/tour-1.jpg') }}" alt=""> 
+						                	<img src="{{ asset('img/guide/guide-8.jpg') }}" alt=""> 
 						                	</a>
 						                </div>
 								   </div>
@@ -320,12 +323,12 @@
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
 						               	 	<a href="single_tour.html">
-						                	<img src="{{ asset('img/tours/tour-1.jpg') }}" alt=""> 
+						                	<img src="{{ asset('img/guide/guide-12.jpg') }}" alt=""> 
 						                	</a>
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
-							        <div class="col-lg-9 col-md-9 col-sm-9">
+							        <div class="col-lg-9 col-md-9 col-sm-12">
 							               	<div class="tour_list_desc">
 							        			<div class="rating"><i class="icon-smile voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile voted"></i></div>
 							                    <h3><strong>Reserva Nacional de Paracas </strong></h3>
@@ -345,7 +348,7 @@
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
 						               	 	<a href="single_tour.html">
-						                	<img src="{{ asset('img/tours/tour-1.jpg') }}" alt=""> 
+						                	<img src="{{ asset('img/guide/guide-9.jpg') }}" alt=""> 
 						                	</a>
 						                </div>
 								   </div>
@@ -369,7 +372,7 @@
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
 						               	 	<a href="single_tour.html">
-						                		<img src="{{ asset('img/tours/tour-1.jpg') }}" alt=""> 
+						                		<img src="{{ asset('img/guide/guide-13.jpg') }}" alt=""> 
 						                	</a>
 						                </div>
 								   </div>
@@ -394,7 +397,7 @@
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
 						               	 	<a href="single_tour.html">
-						                	<img src="{{ asset('img/tours/tour-1.jpg') }}" alt=""> 
+						                	<img src="{{ asset('img/guide/guide-10.jpg') }}" alt=""> 
 						                	</a>
 						                </div>
 								   </div>
@@ -418,7 +421,7 @@
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
 						               	 	<a href="single_tour.html">
-						                	<img src="{{ asset('img/tours/tour-1.jpg') }}" alt=""> 
+						                	<img src="{{ asset('img/guide/guide-11.jpg') }}" alt=""> 
 						                	</a>
 						                </div>
 								   </div>
@@ -447,7 +450,92 @@
                     </div>
                     <div id="collapseThree" class="panel-collapse collapse">
                       <div class="panel-body">
-                        <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p>
+	                     
+	                       <div class="row">	                     		
+	                     	
+	                     	 <div class="col-lg-6 col-md-6 col-sm-12">
+								<div class="row">
+									<div class="col-md-3">
+										<img src="{{ asset('img/guide/gast-5.jpg') }}" alt="" width="120">
+									</div>
+									<div class="col-md-9">
+										<h4>Pisco</h4>
+										<p>
+											Aguardiente de uva, licor originario de Perú y producto bandera. 
+										</p>
+									</div>
+								</div>
+	                     	 </div>
+	                     	 
+	                     	  <div class="col-lg-6 col-md-6 col-sm-12">
+								<div class="row">
+									<div class="col-md-3">
+										<img src="{{ asset('img/guide/gast-1.jpg') }}" alt="" width="120">
+									</div>
+									<div class="col-md-9">
+										<h4>Carapulcra</h4>
+										<p>
+											Papa seca sancochada y guisada con carne de cerdo y gallina, ají panca, mirasol, ajos y otras especias. 
+										</p>
+									</div>
+								</div>
+	                     	 </div>
+
+	                       </div>
+
+	                       <div class="row">	                     		
+	                     	
+	                     	 <div class="col-lg-6 col-md-6 col-sm-12">
+								<div class="row">
+									<div class="col-md-3">
+										<img src="{{ asset('img/guide/gast-3.jpg') }}" alt="" width="120">
+									</div>
+									<div class="col-md-9">
+										<h4>Chapanas</h4>
+										<p>
+											Dulce de harina de yuca y chancaca. 
+										</p>
+									</div>
+								</div>
+	                     	 </div>
+	                     	 
+	                     	  <div class="col-lg-6 col-md-6 col-sm-12">
+								<div class="row">
+									<div class="col-md-3">
+										<img src="{{ asset('img/guide/gast-2.jpg') }}" alt="" width="120">
+									</div>
+									<div class="col-md-9">
+										<h4>Morusa </h4>
+										<p>
+											Puré de pallares con asado de res o cerdo. 
+										</p>
+									</div>
+								</div>
+	                     	 </div>
+
+	                       </div>
+
+	                       <div class="row">	                     		
+	                     	
+	                     	 <div class="col-lg-6 col-md-6 col-sm-12">
+								<div class="row">
+									<div class="col-md-3">
+										<img src="{{ asset('img/guide/gast-4.jpg') }}" alt="" width="120">
+									</div>
+									<div class="col-md-9">
+										<h4>Tejas </h4>
+										<p>
+											Dulce tradicional de la región hecho con limón seco y relleno de higos o pecanas, manjar blanco y con una cobertura de caramelo de azúcar. 
+										</p>
+									</div>
+								</div>
+	                     	 </div>
+	                     	 
+	                     	  
+
+	                       </div>
+                      
+                      
                       </div>
                     </div>
                   </div>
@@ -460,13 +548,362 @@
                     </div>
                     <div id="collapseFour" class="panel-collapse collapse">
                       <div class="panel-body">
-                        <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p>
+                       
+                       	<!--Fest 1-->
+							<div class="strip_all_tour_list">
+						    	<div class="row">
+
+							    	<div class="col-lg-3 col-md-3 col-sm-3">
+						            	<div class="img_list">
+						               	 	<a href="single_tour.html">
+						                	<img src="{{ asset('img/guide/fest-1.jpg') }}" alt=""> 
+						                	</a>
+						                </div>
+								   </div>
+							        <div class="clearfix visible-xs-block"></div>
+							        <div class="col-lg-9 col-md-9 col-sm-9">
+							               	<div class="tour_list_desc">
+							        			<div class="rating"><i class="icon-smile voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile voted"></i></div>
+							                    <h3><strong>Festival del Verano Negro </strong></h3>
+							                    <p>Concurso de danzas afroperuanas. Además, se realizan ferias artesanales, vitivinícolas, gastronómicas y corsos por las principales calles de la ciudad. </p>
+							                    <strong>Fecha: </strong> Desde el 1 de Febrero Hasta el 28 de Febrero						                            
+							                 </div>
+							        </div>
+											           
+						        </div>
+							</div><!--End strip -->
+
+							<!--Fest 2-->
+							<div class="strip_all_tour_list">
+						    	<div class="row">
+
+							    	<div class="col-lg-3 col-md-3 col-sm-3">
+						            	<div class="img_list">
+						               	 	<a href="single_tour.html">
+						                	<img src="{{ asset('img/guide/fest-4.jpg') }}" alt=""> 
+						                	</a>
+						                </div>
+								   </div>
+							        <div class="clearfix visible-xs-block"></div>
+							        <div class="col-lg-9 col-md-9 col-sm-9">
+							               	<div class="tour_list_desc">
+							        			<div class="rating"><i class="icon-smile voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile voted"></i></div>
+							                    <h3><strong>Día Nacional del Pisco Sour </strong></h3>
+							                    <p>El Pisco es la bebida emblema de Ica y por ello no puede ser ajena a la celebración del Día Nacional del Pisco Sour. Con el fin de apoyar en la promoción de nuestro trago bandera, se levantará en el Campo Ferial una buen número de stands para que los productores de Pisco puedan ofrecer las mejores preparaciones del Pisco Sour. Todo ello estará acompañado de coloridas danzas que harán bailar a todos los presentes, además de un merecido homenaje al Pabellón Nacional.</p>
+							                    <strong>Fecha: </strong> El 4 de Febrero						                            
+							                 </div>
+							        </div>
+											           
+						        </div>
+							</div><!--End strip -->
+
+							<!--Fest 3-->
+							<div class="strip_all_tour_list">
+						    	<div class="row">
+
+							    	<div class="col-lg-3 col-md-3 col-sm-3">
+						            	<div class="img_list">
+						               	 	<a href="single_tour.html">
+						                	<img src="{{ asset('img/guide/fest-2.jpg') }}" alt=""> 
+						                	</a>
+						                </div>
+								   </div>
+							        <div class="clearfix visible-xs-block"></div>
+							        <div class="col-lg-9 col-md-9 col-sm-9">
+							               	<div class="tour_list_desc">
+							        			<div class="rating"><i class="icon-smile voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile voted"></i></div>
+							                    <h3><strong>Festival Internacional de la Vendimia</strong></h3>
+							                    <p>La celebración más representativa del departamento de Ica es el Festival Internacional de la Vendimia, que es un homenaje a la ejemplar actividad vitivinícola que realiza esta región cada año. Durante 9 días los turistas podrán participar en actividades como la XVIII Ruta de los Lagares, que consiste en los rituales de pisa de uva y la degustación de los mejores vinos y piscos nacionales, además de disfrutar los deliciosos platos típicos de la ciudad sureña. También se desarrollarán ferias agropecuarias y artesanales y diversos shows artísticos a diario para divertir a los asistentes.</p>
+							                     <strong>Fecha: </strong> Desde el 6 de Febrero Hasta el 15 de Marzo					                            
+							                 </div>
+							        </div>
+											           
+						        </div>
+							</div><!--End strip -->
+
+							<!--Fest 4-->
+							<div class="strip_all_tour_list">
+						    	<div class="row">
+
+							    	<div class="col-lg-3 col-md-3 col-sm-3">
+						            	<div class="img_list">
+						               	 	<a href="single_tour.html">
+						                	<img src="{{ asset('img/guide/fest-5.jpg') }}" alt=""> 
+						                	</a>
+						                </div>
+								   </div>
+							        <div class="clearfix visible-xs-block"></div>
+							        <div class="col-lg-9 col-md-9 col-sm-9">
+							               	<div class="tour_list_desc">
+							        			<div class="rating"><i class="icon-smile voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile voted"></i></div>
+							                    <h3><strong>Semana Santa Iqueña</strong></h3>
+							                    <p>La festividad se inicia el Domingo de Ramos con la procesión del Señor del Triunfo y finaliza con la procesión de resurrección, conocida también como "Procesión del Borrachito". Todas las calles son adornadas con alfombras y arcos triunfales.</p>
+							                     <strong>Fecha: </strong> Desde el 25 de Febrero Hasta el 31 de Mayo					                            
+							                 </div>
+							        </div>
+											           
+						        </div>
+							</div><!--End strip -->
+
+							<!--Fest 5-->
+							<div class="strip_all_tour_list">
+						    	<div class="row">
+
+							    	<div class="col-lg-3 col-md-3 col-sm-3">
+						            	<div class="img_list">
+						               	 	<a href="single_tour.html">
+						                	<img src="{{ asset('img/guide/fest-6.jpg') }}" alt=""> 
+						                	</a>
+						                </div>
+								   </div>
+							        <div class="clearfix visible-xs-block"></div>
+							        <div class="col-lg-9 col-md-9 col-sm-9">
+							               	<div class="tour_list_desc">
+							        			<div class="rating"><i class="icon-smile voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile voted"></i></div>
+							                    <h3><strong>Semana Turística de Ica</strong></h3>
+							                    <p>Exhibiciones de Caballos Peruanos de Paso, peleas de gallos, concursos de vinos, degustaciones de pisco, caminatas de bodega y el concurso internacional de sandboard.</p>
+							                     <strong>Fecha: </strong> Desde el 01 de Septiembre Hasta el 30 de Septiembre					                            
+							                 </div>
+							        </div>
+											           
+						        </div>
+							</div><!--End strip -->
+
+							<!--Fest 6-->
+							<div class="strip_all_tour_list">
+						    	<div class="row">
+
+							    	<div class="col-lg-3 col-md-3 col-sm-3">
+						            	<div class="img_list">
+						               	 	<a href="single_tour.html">
+						                	<img src="{{ asset('img/guide/fest-3.jpg') }}" alt=""> 
+						                	</a>
+						                </div>
+								   </div>
+							        <div class="clearfix visible-xs-block"></div>
+							        <div class="col-lg-9 col-md-9 col-sm-9">
+							               	<div class="tour_list_desc">
+							        			<div class="rating"><i class="icon-smile voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile voted"></i></div>
+							                    <h3><strong>Señor de Luren</strong></h3>
+							                    <p>El origen de la devoción a la imagen del Señor de Luren, patrono de la ciudad de Ica, se remonta a 1570, cuando misteriosamente se extravió en el desierto para aparecer en un paraje desolado llamado Luren, donde se levantó un pequeño templo y un hospital para indios. Los días 22 y 23 de octubre la imagen de madera sale en procesión para recorrer la ciudad toda la noche y el amanecer, acompañada de la Virgen María y la Magdalena. Ubicación: ciudad de Ica (406 metros sobre el nivel del mar).</p>
+							                     <strong>Fecha: </strong> Desde el 03 de Septiembre Hasta el 21 de Octubre					                            
+							                 </div>
+							        </div>
+											           
+						        </div>
+							</div><!--End strip -->
+
                       </div>
                     </div>
                   </div>
 
     </div>
 </div>
+</div>
 
 
-@section('content')
+<div class="container margin_30">
+    
+     <div class="main_title">
+     	<h2>Imágenes de la <span>ciudad</span></h2>
+         <p>Disfruta el paisaje</p>
+     </div>
+
+     <div class="row magnific-gallery add_bottom_60 ">
+    	<div class="col-md-3 col-sm-3">
+        	<a href="{{ asset('img/guide/img-1.jpg') }}" title="Photo title"><img src="{{ asset('img/guide/img-1.jpg') }}" alt="" class="img-responsive styled"></a>
+        </div>
+        <div class="col-md-3 col-sm-3">
+        	<a href="{{ asset('img/guide/img-2.jpg') }}" title="Photo title"><img src="{{ asset('img/guide/img-2.jpg') }}" alt="" class="img-responsive styled"></a>
+        </div>
+        <div class="col-md-3 col-sm-3">
+        	<a href="{{ asset('img/guide/img-3.jpg') }}" title="Photo title"><img src="{{ asset('img/guide/img-3.jpg') }}" alt="" class="img-responsive styled"></a>
+        </div>
+        <div class="col-md-3 col-sm-3">
+        	<a href="{{ asset('img/guide/img-4.jpg') }}" title="Photo title"><img src="{{ asset('img/guide/img-4.jpg') }}" alt="" class="img-responsive styled"></a>
+        </div>
+        <div class="col-md-3 col-sm-3">
+        	<a href="{{ asset('img/guide/img-5.jpg') }}" title="Photo title"><img src="{{ asset('img/guide/img-5.jpg') }}" alt="" class="img-responsive styled"></a>
+        </div>
+        <div class="col-md-3 col-sm-3">
+        	<a href="{{ asset('img/guide/img-6.jpg') }}" title="Photo title"><img src="{{ asset('img/guide/img-6.jpg') }}" alt="" class="img-responsive styled"></a>
+        </div>
+        <div class="col-md-3 col-sm-3">
+        	<a href="{{ asset('img/guide/img-7.jpg') }}" title="Photo title"><img src="{{ asset('img/guide/img-7.jpg') }}" alt="" class="img-responsive styled"></a>
+        </div>
+        <div class="col-md-3 col-sm-3">
+        	<a href="{{ asset('img/guide/img-8.jpg') }}" title="Photo title"><img src="{{ asset('img/guide/img-8.jpg') }}" alt="" class="img-responsive styled"></a>
+        </div>
+    </div><!-- End row -->
+
+</div>
+
+
+<div class="white_bg">
+<div class="container margin_60">
+    
+        <div class="main_title">
+            <h2>Nuestros <span>Tours</span></h2>
+            <p>Disfruta de tu viaje sin preocupaciones</p>
+        </div>
+        
+       <div class="row">
+        
+            <div class="col-md-4 col-sm-6 wow zoomIn" data-wow-delay="0.1s">
+                <div class="tour_container">
+                    <div class="img_container">
+                        <a href="single_tour.html">
+                        <img src="{{ asset('img/tours/tour-1.jpg') }}" class="img-responsive" alt="Tour número 1">
+                         <div class="short_info">
+                            <i class="icon_set_1_icon-60"></i>Piscos y vinos
+                        </div>
+                        </a>
+                    </div>
+                    <div class="tour_title">
+                        <h3><strong>Ruta del</strong> Pisco</h3>
+                        <div class="duration">
+                           Full Day
+                        </div>
+                                                
+                    </div>
+                     <a href="#" class="btn_full">Quiero ir</a> 
+                </div><!-- End box tour -->
+            </div><!-- End col-md-4 -->
+            
+            <div class="col-md-4 col-sm-6 wow zoomIn" data-wow-delay="0.1s">
+                <div class="tour_container">
+                    <div class="img_container">
+                        <a href="single_tour.html">
+                        <img src="{{ asset('img/tours/tour-2.jpg') }}" class="img-responsive" alt="">
+                        <div class="short_info">
+                            <i class="icon_set_1_icon-44"></i>Lugares Historicos
+                        </div>
+                        </a>
+                    </div>
+                    <div class="tour_title">
+                        <h3><strong>Full Day</strong> Paracas</h3>
+                        <div class="duration">
+                            Full Day
+                        </div>
+                         
+                       
+                    </div>
+                     <a href="#" class="btn_full">Quiero ir</a> 
+                </div><!-- End box tour -->
+            </div><!-- End col-md-4 -->
+            
+             <div class="col-md-4 col-sm-6 wow zoomIn" data-wow-delay="0.1s">
+                <div class="tour_container">
+                    <div class="img_container">
+                        <a href="single_tour.html">
+                        <img src="{{ asset('img/tours/tour-3.jpg') }}" class="img-responsive" alt="">
+                        <div class="ribbon popular"></div>
+                        <div class="short_info">
+                            <i class="icon_set_1_icon-82"></i>Descanso y tranquilidad
+                        </div>
+                        </a>
+                    </div>
+                    <div class="tour_title">
+                        <h3><strong>Paracas</strong> Inolvidable</h3>
+                        <div class="duration">
+                           2 días 1 noche
+                        </div>
+                       
+                       
+                    </div>
+                     <a href="#" class="btn_full">Quiero ir</a> 
+                </div><!-- End box tour -->
+            </div><!-- End col-md-4 -->
+            
+            <div class="col-md-offset-2 col-md-4 col-sm-6 wow zoomIn" data-wow-delay="0.1s">
+                <div class="tour_container">
+                    <div class="img_container">
+                        <a href="single_tour.html">
+                        <img src="{{ asset('img/tours/tour-4.jpg') }}" class="img-responsive" alt="">
+                        <div class="short_info">
+                            <i class="icon-flight"></i>A volar
+                        </div>
+                        </a>
+                    </div>
+                    <div class="tour_title">
+                        <h3><strong>Paracas con sobrevuelo</strong> Nazca</h3>
+                        <div class="duration">
+                           2 días 1 noche
+                        </div>
+                                             
+                    </div>
+                     <a href="#" class="btn_full">Quiero ir</a> 
+                </div><!-- End box tour -->
+            </div><!-- End col-md-4 -->
+            
+            <div class="col-md-4 col-sm-6 wow zoomIn" data-wow-delay="0.1s">
+                <div class="tour_container">
+                    <div class="img_container">
+                        <a href="single_tour.html">
+                        <img src="{{ asset('img/tours/tour-5.jpg') }}" class="img-responsive" alt="">
+                  		 <div class="short_info">
+                            <i class="icon_set_1_icon-8"></i>
+                        </div>
+                        </a>
+                    </div>
+                    <div class="tour_title">
+                        <h3><strong>Paracas-Ica</strong> relax</h3><br/>
+                        <div class="duration">
+                            2 días 1 noche
+                        </div>
+                                                
+                    </div>
+                     <a href="#" class="btn_full">Quiero ir</a> 
+                </div><!-- End box tour -->
+            </div><!-- End col-md-4 -->
+            
+              
+            <div class="col-md-offset-2 col-md-4 col-sm-6 wow zoomIn" data-wow-delay="0.1s">
+                <div class="tour_container">
+                    <div class="img_container">
+                        <a href="single_tour.html">
+                        <div class="ribbon popular"></div>
+                        <img src="{{ asset('img/tours/tour-6.jpg') }}" class="img-responsive" alt="">
+                        <div class="short_info">
+                            <i class="icon_set_1_icon-30"></i>A caminar
+                        </div>
+                        </a>
+                    </div>
+                    <div class="tour_title">
+                        <h3><strong>Ruta del Pisco</strong> Deluxe</h3>
+                        <div class="duration">
+                           2 días 1 noche
+                        </div>
+                        
+                    </div>
+                     <a href="#" class="btn_full">Quiero ir</a> 
+                </div><!-- End box tour -->
+            </div><!-- End col-md-4 -->
+            
+            <div class="col-md-4 col-sm-6 wow zoomIn" data-wow-delay="0.1s">
+                <div class="tour_container">
+                    <div class="img_container">
+                        <a href="single_tour.html">
+                        <img src="{{ asset('img/tours/tour-7.jpg') }}" class="img-responsive" alt="">
+                          <div class="short_info">
+                            <i class="icon_set_1_icon-44"></i>Lugares Historicos
+                        </div>
+                        </a>
+                    </div>
+                    <div class="tour_title">
+                        <h3><strong>Ica-Paracas </strong>Mágicos</h3>
+                        <div class="duration">
+                           3 días 2 noches
+                        </div>
+                                              
+                    </div>
+                     <a href="#" class="btn_full">Quiero ir</a> 
+                </div><!-- End box tour -->
+            </div><!-- End col-md-4 -->            
+          
+        </div><!-- End row -->
+       
+    </div><!-- End container -->
+    </div>
+
+@endsection
