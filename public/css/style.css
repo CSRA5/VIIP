@@ -3363,6 +3363,20 @@ End Home
 	text-transform:uppercase;
 }
 
+#guide-paracas {
+    position: relative;
+    height: 600px;
+    background: #4d536d url(../img/guide/paracas.jpg) no-repeat center center;
+    background-size: cover;
+    color:#fff;
+	width: 100%;
+	font-size:16px;
+	display:table;
+	z-index:99;
+	text-align:center;
+	text-transform:uppercase;
+}
+
 .head-title{
 	padding: 10px 15px;
 	border-top-left-radius: 3px;
@@ -3387,6 +3401,38 @@ End Home
 	color: white;
 }
 
+.cant-persons{
+	display:table;
+	height:220px;
+	font-size:28px;
+	color:#e74c3c;
+	width:100%;
+	margin-left:-15px;
+}
 
+.cant-persons div{
+	display: table-cell;
+	vertical-align:middle;
+	text-align:center;
+}
 
+/*
+*/
 
+/* Vehicles*/
+
+#vehicle {
+    position: relative;
+    height: 600px;
+    background: #4d536d url(../img/vehicles/veh.jpg) no-repeat center center;
+    background-size: cover;
+    color:#fff;
+	width: 100%;
+	font-size:16px;
+	display:table;
+	z-index:99;
+	text-align:center;
+	text-transform:uppercase;
+}
+
+/*End vehicles*()

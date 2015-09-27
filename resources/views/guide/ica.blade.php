@@ -51,7 +51,7 @@
                        		<div class="col-md-6">
                        			<h4>Extensión</h4>
                        			<p>
-                       				335,000 hectáreas, de las cuales 117,406 son de tierra firme y 217,594 de aguas marinas. 
+                       				21.305 km2
                        			</p>
                        		</div>
 
@@ -310,31 +310,6 @@
 							                    <h3><strong>Playas y desiertos</strong></h3>
 							                    <p>Zona de hermosas playas, ideales para practicar pesca, caza submarina y acampar. Destacan El Morro, El Negro, La Hierba, Lomitas, Oyeros, Antana, Barlovento y La Cueva. Es necesario cruzar el desierto para visitarlas, con la compañía de un guía y movilidad apropiada.</p>
 							                    <strong>Ubicación: </strong>A 60 Km de la localidad de Ocucaje.                
-							                 </div>
-							        </div>
-											           
-						        </div>
-							</div><!--End strip -->
-
-							<!--Attractive 9-->
-							<div class="strip_all_tour_list">
-						    	<div class="row">
-
-							    	<div class="col-lg-3 col-md-3 col-sm-3">
-						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
-						                	<img src="{{ asset('img/guide/guide-12.jpg') }}" alt=""> 
-						                	</a>
-						                </div>
-								   </div>
-							        <div class="clearfix visible-xs-block"></div>
-							        <div class="col-lg-9 col-md-9 col-sm-12">
-							               	<div class="tour_list_desc">
-							        			<div class="rating"><i class="icon-smile voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile voted"></i></div>
-							                    <h3><strong>Reserva Nacional de Paracas </strong></h3>
-							                    <p>Con 335 mil ha, este lugar es refugio de lobos marinos, pingüinos de Humboldt, flamencos o parihuanas y muchas otras aves. Se pueden realizar diversas visitas en la reserva, pues cuenta con numerosos atractivos naturales y arqueológicos. Uno de ellos es el Candelabro, un geoglifo de más de 120 metros de extensión que puede observarse mejor desde el mar. 
-												El Centro de Interpretación ofrece una interesante explicación de la biodiversidad y los peligros que afronta la zona. En el Museo de Sitio Julio C. Tello se exhibe permanentemente piezas de la cultura Paracas halladas en los cementerios de la zona.</p>
-							                    <strong>Ubicación: </strong>A 250 km al sur de la ciudad de Lima (3 horas).  
 							                 </div>
 							        </div>
 											           

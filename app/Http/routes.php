@@ -41,6 +41,30 @@ Route::get('guia-turistica/ica', function () {
     return view('guide/ica');
 });
 
+Route::get('guia-turistica/paracas', function () {
+    return view('guide/paracas');
+});
+
 /*
 End Guide*/
 
+
+/*
+Vehicles
+*/
+
+Route::get('nuestros-vehiculos', function () {
+    return view('vehicles/list-vehicles');
+});
+
+/*
+End vehicles
+*/
+
+/*Contact*/
+
+Route::get('contacto', function () {
+    return view('contact');
+});
+
+/* End contact*/

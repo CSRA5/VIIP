@@ -15,7 +15,7 @@
     <title> @yield('title') </title>
 
     <!-- Favicons-->
-    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('img/favicon.png') }}" type="image/x-icon">
     <link rel="apple-touch-icon" type="image/x-icon" href="img/apple-touch-icon-57x57-precomposed.png">
     <link rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="img/apple-touch-icon-72x72-precomposed.png">
     <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="img/apple-touch-icon-114x114-precomposed.png">
@@ -64,7 +64,7 @@
     <div id="top_line">
             <div class="container">
                 <ul id="top_links">
-                     <li><strong>(511) 440-8819/(51) 9856 19968</strong></li>
+                     <li><strong>(51) 01 440-8819/(51) 01 9856 19968</strong></li>
                     <li><strong>info@viajesicaparacas.com </strong></li>
                  </ul>
             </div><!-- End container-->
@@ -116,14 +116,7 @@
                             <li><a href="">Testimonios</a></li>
 
                             <li class="submenu">
-                                <a href="javascript:void(0);" class="show-submenu">Vehiculos<i class="icon-down-open-mini"></i></a>
-                                <ul>
-                                    <li><a href="all_hotels_list.html">SW Skoda Europeo</a></li>
-                                    <li><a href="all_hotels_list.html">Chervolet Orlando 4x2</a></li>
-                                    <li><a href="all_hotels_list.html">Van Hyunday H1</a></li>
-                                    <li><a href="all_hotels_list.html">Minibus Mecedez Benz Sprinter</a></li>
-                                   
-                                </ul>
+                                <a  href="{{ url('nuestros-vehiculos') }}" class="show-submenu">Vehiculos</a>                              
                             </li>
 
 							<li><a>Contacto</a></li>
