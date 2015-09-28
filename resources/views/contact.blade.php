@@ -1,13 +1,14 @@
 @extends('layouts/layout')
-@section('title','VIP- Viajes a Ica y Paracas')
+@section('title','Contacto- Viajes a Ica y Paracas')
 @section('description','')
 
 @section('content')
 
-<section id="company">
+<section id="contact">
  	<div class="intro_title">
-    	<h1 class="animated fadeInDown">Nosotros</h1>
-        <p class="animated fadeInDown">Más de 20 años de experiencia nos respaldan</p>
+    	<h1 class="animated fadeInDown">Contáctanos</h1>
+    	<p class="animated fadeInDown">Y empieza la aventura</p>
+        <p class="animated fadeInDown"></p>
        
 	</div>
 </section><!-- End hero -->
@@ -24,13 +25,13 @@
 			<div class="step">
             
 				<div id="message-contact"></div>
-				<form method="post" action="assets/contact.php" id="contactform">
+				<form  id="contact_form" autocomplete="off" >
 					<div class="row">
 
 						<div class="col-md-6 col-sm-6">
 							<div class="form-group">
 								<label>Nombre</label>
-								<input type="select" class="form-control" id="name_contact" name="lastname_contact" placeholder="Ingresa aqui tu nombre">
+								<input type="text" class="form-control" id="name_contact" name="name_contact" placeholder="Ingresa aqui tu nombre">
 							</div>
 						</div>
 
@@ -38,7 +39,7 @@
 							<div class="form-group">
 								<label>Pais</label>
 							<select class="form-control" name="country" id="country">
-								<option value="" selected>Selecciona tu país</option>
+								<option value="Selecciona tu país" selected>Selecciona tu país</option>
 								<option value="Europe">Europe</option>
 								<option value="United states">United states</option>
 								<option value="Asia">Asia</option>
@@ -72,7 +73,10 @@
 					</div>
 					<div class="row">
 						<div class="col-md-12">
-							<input type="submit" value="Enviar" class="btn_full" id="submit-contact">
+							<input type="submit" value="Enviar" class="btn_full" id="submit_btn">
+						</div>
+						<div class="col-md-12">
+							<div id="result"></div>
 						</div>
 					</div>
 				</form>
@@ -81,7 +85,7 @@
         
 		<div class="col-md-4 col-sm-4">
 			<div class="box_style_1">
-				<span class="tape"></span>
+				
 				<h4>Dirección <span><i class="icon-pin pull-right"></i></span></h4>
 				<p>
 					 Jr. Audiencia 227. San Isidro, Lima - Perú 
@@ -137,5 +141,6 @@
 <script src="http://maps.googleapis.com/maps/api/js"></script>
 <script src="js/map-company.js"></script>
 <script src="js/infobox.js"></script>
+<script src="js/contact-form.js"></script>
 
 @endsection

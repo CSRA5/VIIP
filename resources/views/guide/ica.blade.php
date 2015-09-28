@@ -444,7 +444,7 @@
 	                     	 
 	                     	  <div class="col-lg-6 col-md-6 col-sm-12">
 								<div class="row">
-									<div class="col-md-3">
+									<div class="col-md-3 item">
 										<img src="{{ asset('img/guide/gast-1.jpg') }}" alt="" width="120">
 									</div>
 									<div class="col-md-9">

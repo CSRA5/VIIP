@@ -35,7 +35,7 @@ else if(trim($email_contact) == '') {
 	echo '<div class="error_message">Ingresaste un email invalido, vuelve a intentarlo</div>';
 	exit();
 	}
-}
+
 
 if(get_magic_quotes_gpc()) {
 	$message_contact = stripslashes($message_contact);

@@ -119,7 +119,7 @@
                                 <a  href="{{ url('nuestros-vehiculos') }}" class="show-submenu">Vehiculos</a>                              
                             </li>
 
-							<li><a>Contacto</a></li>
+							<li><a href="{{ url('contacto') }}">Contacto</a></li>
 
                         </ul>
                     </div><!-- End main-menu -->
@@ -145,7 +145,7 @@
                  </div>
                 <div class="col-md-4 col-sm-3">
                     <h3>Mas información?</h3>
-                    <a href="tel://004542344599" id="phone">+51 01 484-8619</a>
+                    <a href="tel://004542344599" id="phone">+(51) 01 440-8819</a>
                     <a href="mailto:help@citytours.com" id="email_footer">info@viajesicaparacas.com</a>
                 </div>
 
