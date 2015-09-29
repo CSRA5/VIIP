@@ -20,7 +20,7 @@
             	
                 <div class="img_list">
                	 	<a href="single_tour.html">
-                	<img src="img/vehicles/veh-1.jpg" alt=""> 
+                	<img src="img/vehicles/veh-3.jpg" alt=""> 
                 	<div class="short_info"><i class="icon_set_1_icon-21"></i>Comodidad garantizada</div></a>
                 </div>
 			   </div>
@@ -79,7 +79,7 @@
               
                 <div class="img_list">
                   <a href="single_tour.html">
-                  <img src="img/vehicles/veh-2.jpg" alt=""> 
+                  <img src="img/vehicles/veh-1.jpg" alt=""> 
                   <div class="short_info"><i class="icon_set_1_icon-21"></i>Comodidad garantizada</div></a>
                 </div>
       </div>
@@ -134,7 +134,7 @@
             	
                 <div class="img_list">
                	 	<a href="single_tour.html">
-                	<img src="img/vehicles/veh-3.jpg" alt=""><div class="ribbon popular" ></div>
+                	<img src="img/vehicles/veh-4.jpg" alt=""><div class="ribbon popular" ></div>
                   <div class="short_info"><i class="icon_set_1_icon-21"></i>Comodidad garantizada</div></a>
                 </div>
 			</div>
@@ -189,7 +189,7 @@
             	
                 <div class="img_list">
                	 	<a href="single_tour.html">
-                	<img src="img/vehicles/veh-4.jpg" alt="">
+                	<img src="img/vehicles/veh-2.jpg" alt="">
                   <div class="short_info"><i class="icon_set_1_icon-21"></i>Comodidad garantizada</div></a>
                 </div>
 			</div>
