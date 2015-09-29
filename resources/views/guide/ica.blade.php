@@ -7,7 +7,7 @@
 <section id="guide-ica">
  	<div class="intro_title">
     	<h1 class="animated fadeInDown">ICA</h1>
-        <p class="animated fadeInDown">Mar, sol y arena</p>
+        <p class="animated fadeInDown">Valle de enigmas y buen pisco</p>
        
 	</div>
 </section><!-- End hero -->
@@ -20,7 +20,7 @@
 		
 			<div class="box_style_2">
 				<p>
-					Ica es conocida por ser la región de la arena y el mar, de oasis y valles, de reservas naturales con gran biodiversidad, de beatos y brujos, de pisco y buen vino, de devociones populares como el Señor de Luren. Fue en estas tierras, en sus arenas, en las que florecieron importantes civilizaciones, dejando huellas que han perdurado con el paso del tiempo. Hoy es centro de una cultura originada por los descendientes de esclavos negros traídos por los españoles, que  dejaron como legado la música afroperuana al mezclar nuestras culturas. Lugar mágico lleno de misterio con gente cálida esperando por ti. 
+					<span class="name-guide">Ica</span> es conocida por ser la región de la arena y el mar, de oasis y valles, de reservas naturales con gran biodiversidad, de beatos y brujos, de pisco y buen vino, de devociones populares como el Señor de Luren. Fue en estas tierras, en sus arenas, en las que florecieron importantes civilizaciones, dejando huellas que han perdurado con el paso del tiempo. Hoy es centro de una cultura originada por los descendientes de esclavos negros traídos por los españoles, que  dejaron como legado la música afroperuana al mezclar nuestras culturas. Lugar mágico lleno de misterio con gente cálida esperando por ti. 
 				</p>
 			</div>
 

@@ -68,3 +68,10 @@ Route::get('contacto', function () {
 });
 
 /* End contact*/
+
+
+/* Testimonials */
+Route::get('testimonios', function () {
+    return view('testimonials');
+});
+/*End testimonials*/

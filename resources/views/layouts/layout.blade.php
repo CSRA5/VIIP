@@ -113,7 +113,7 @@
                                 </ul>
                             </li>
                             
-                            <li><a href="">Testimonios</a></li>
+                            <li><a href="{{ url('testimonios') }}">Testimonios</a></li>
 
                             <li class="submenu">
                                 <a  href="{{ url('nuestros-vehiculos') }}" class="show-submenu">Vehiculos</a>                              

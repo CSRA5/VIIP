@@ -3416,6 +3416,11 @@ End Home
 	text-align:center;
 }
 
+.name-guide{
+	color: #D99230;
+	font-size: 18px;
+}
+
 /*
 */
 
@@ -3463,3 +3468,21 @@ End Home
 }
 
 /*End contact*/
+
+
+/* Testimonials*/
+#testimonials {
+    position: relative;
+    height: 600px;
+    background: #4d536d url(../img/testimonials/testimonials.jpg) no-repeat center center;
+    background-size: cover;
+    color:#fff;
+	width: 100%;
+	font-size:16px;
+	display:table;
+	z-index:99;
+	text-align:center;
+	text-transform:uppercase;
+}
+
+/*End Testimonials*/

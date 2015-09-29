@@ -21,7 +21,8 @@
                     <i class="icon_set_1_icon-30"></i>
                   
                     <p>
-                        Pertenecemos a la Agencia de Viajes y Tour Operador  TURINET GROUP, que cuenta con una amplia experiencia en turismo, reconocida por la National Geographic Traveler y la Revista Amura quienes realizaron reportajes al Perú.
+                       viajesicaparacas.com nace con el propósito de brindar un servicio de alta calidad a los turistas mas exigentes que desean visitar el sur del Perú.
+                       Pertenecemos a la Agencia de Viajes y Tour Operador  TURINET GROUP , que cuenta con una amplia experiencia en turismo, reconocida por la National Geographic Traveler y la Revista Amura quienes realizaron reportajes al Perú.
                     </p>
                 </div>
             </div>
@@ -31,7 +32,7 @@
                     <i class="icon_set_1_icon-61"></i>
                    	<h3><span>Misión</span> </h3>
                     <p>
-                        Ser el Tour Operador líder en el área de Viajes de Lujo en el Perú brindando la satisfacción y superando las expectativas de sus clientes. <br/><br/><br/><br/>
+                       Ser el Tour Operador líder en el área de Viajes Exclusivos  en el sur del  Perú brindando la satisfacción y superando las expectativas de sus clientes. <br/><br/><br/><br/>
                     </p>
                 </div>
             </div>
@@ -41,7 +42,8 @@
                     <i class="icon_set_1_icon-46"></i>
                     <h3><span>Visión</span> </h3>
                     <p>
-                        Ofrecer la máxima calidad, seguridad y tecnología en los diferentes servicios turísticos ,proporcionando experiencias únicas con el más alto nivel, creando vivencias extraordinarias, de compleja organización y especial dedicación, que conducen a nuestros pasajeros hasta las profundidades de una cultura milenaria a través de nuestros rutas turísticas.
+                        Ofrecer la máxima calidad, seguridad y tecnología en los diferentes servicios turísticos ,proporcionando experiencias únicas con el más alto nivel, creando vivencias extraordinarias,
+                        de compleja organización y especial dedicación, que conducen a nuestros pasajeros hasta las profundidades de una cultura milenaria a través de nuestros rutas turísticas.
                     </p>
                 </div>
             </div>

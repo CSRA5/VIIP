@@ -20,7 +20,7 @@
 		
 			<div class="box_style_2">
 				<p>
-					Paracas fue creada como distrito el 8 de marzo de 1951 . Por su cercanía al mar, Paracas es un balneario en forma de bahía. El atractivo de este balneario es su clima, playa y hermosas residencias allí construidas.
+					<span class="name-guide">Paracas</span> fue creada como distrito el 8 de marzo de 1951 . Por su cercanía al mar, Paracas es un balneario en forma de bahía. El atractivo de este balneario es su clima, playa y hermosas residencias allí construidas.
 					El nombre de Paracas significa “lluvia de arena” pues en este lugar los vientos son portadores de arena; estos vientos pueden alcanzar una velocidad de 32 km por hora.
 					Los visitantes de Paracas, gustan de observar los diferentes ecosistemas, los restos arqueológicos de la cultura Paracas, el lugar donde desembarcó San Martín y la gran diversidad de fauna marina existente en la zona.
 
