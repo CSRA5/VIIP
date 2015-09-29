@@ -48,6 +48,17 @@
                 </div>
             </div>
 
+            <div class="col-md-12 wow fadeIn" data-wow-delay="0.1s">
+                <div class="feature">
+                    <i class="icon_set_1_icon-81"></i>
+                     <h3><span>Reconocimientos</span> </h3>
+                    <p>
+                      1. Tenemos el orgullo de ser mencionados en National Geographic, mira el reportaje <a href="http://issuu.com/ricardopadilla3/docs/national_geographic_reportaje_al_pe/4?e=4223391/6566833" target="new">aquí.</a><br/>
+                      2. Salimos nombrados en el reportaje de la Revista Amura (México) junto con la cadena de hoteles Libertador, mira el reportaje  <a href="http://issuu.com/ricardopadilla3/docs/amura-peru-inka?e=4223391/6566819" target="new">aquí.</a>
+                    </p>
+                </div>
+            </div>
+
 	</div>
 
 </div>
