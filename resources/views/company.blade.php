@@ -61,6 +61,19 @@
 
 	</div>
 
+    <div class="row magnific-gallery add_bottom_60 ">
+        <div class="col-md-4 col-sm-4">
+            <a href="img/company/company-1.jpg" title="Photo title"><img src="img/company/company-1.jpg" alt="" class="img-responsive styled"></a>
+        </div>
+        <div class="col-md-4 col-sm-4">
+            <a href="img/company/company-2.jpg" title="Photo title"><img src="img/company/company-2.jpg" alt="" class="img-responsive styled"></a>
+        </div>
+        <div class="col-md-4 col-sm-4">
+            <a href="img/company/company-3.jpg" title="Photo title"><img src="img/company/company-3.jpg" alt="" class="img-responsive styled"></a>
+        </div>
+       
+    </div><!-- End row -->
+
 </div>
 
 <div class="white_bg" >

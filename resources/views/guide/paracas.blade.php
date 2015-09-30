@@ -132,9 +132,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 	
 						                	<img src="{{ asset('img/guide/guide-12.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -269,9 +269,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 
 						                	<img src="{{ asset('img/guide/fest-3.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>

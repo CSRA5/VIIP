@@ -128,9 +128,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 	
 						                	<img src="{{ asset('img/guide/guide-1.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -154,9 +154,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 	
 						                	<img src="{{ asset('img/guide/guide-14.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -178,9 +178,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 
 						                	<img src="{{ asset('img/guide/guide-2.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -202,9 +202,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 
 						                	<img src="{{ asset('img/guide/guide-3.jpg') }}" alt=""> 
-						                	</a>
+						                
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -226,9 +226,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 	
 						                	<img src="{{ asset('img/guide/guide-4.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -250,9 +250,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 	
 						                	<img src="{{ asset('img/guide/guide-5.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -274,9 +274,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 	
 						                	<img src="{{ asset('img/guide/guide-7.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -298,9 +298,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 	
 						                	<img src="{{ asset('img/guide/guide-8.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -322,9 +322,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 	
 						                	<img src="{{ asset('img/guide/guide-9.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -346,9 +346,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 
 						                		<img src="{{ asset('img/guide/guide-13.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 
@@ -371,9 +371,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 	
 						                	<img src="{{ asset('img/guide/guide-10.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -395,9 +395,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 	
 						                	<img src="{{ asset('img/guide/guide-11.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -530,9 +530,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 	
 						                	<img src="{{ asset('img/guide/fest-1.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -554,9 +554,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 
 						                	<img src="{{ asset('img/guide/fest-4.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -578,9 +578,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 	
 						                	<img src="{{ asset('img/guide/fest-2.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -602,9 +602,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 	
 						                	<img src="{{ asset('img/guide/fest-5.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -626,9 +626,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 
 						                	<img src="{{ asset('img/guide/fest-6.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
@@ -650,9 +650,9 @@
 
 							    	<div class="col-lg-3 col-md-3 col-sm-3">
 						            	<div class="img_list">
-						               	 	<a href="single_tour.html">
+						               	 	
 						                	<img src="{{ asset('img/guide/fest-3.jpg') }}" alt=""> 
-						                	</a>
+						                	
 						                </div>
 								   </div>
 							        <div class="clearfix visible-xs-block"></div>
