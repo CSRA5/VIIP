@@ -30,7 +30,7 @@
                     	<div class="tour_list_desc">
                            <div class="rating"><i class="icon-smile voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile voted"></i></div>
                     		<h3><strong>SW Skoda Europeo</strong></h3>
-                            <p>Lorem ipsum dolor sit amet, quem convenire interesset ut vix, ad dicat sanctus detracto vis. Eos modus dolorum ex, qui adipisci maiestatis inciderint no, eos in elit dicat.....</p>
+                            <p>Cuando se trata de seguridad, el SKODA no hace concesiones. Simplemente ofrece tecnología de primera clase a bordo.</p>
                           <ul class="add_info">
                             <li>
                               <div class="tooltip_styled tooltip-effect-4">
@@ -87,8 +87,8 @@
               <div class="col-lg-7 col-md-7 col-sm-7">
                       <div class="tour_list_desc">
                            <div class="rating"><i class="icon-smile voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile voted"></i></div>
-                        <h3><strong>4x2 Chervolet Orlando</strong></h3>
-                            <p>Lorem ipsum dolor sit amet, quem convenire interesset ut vix, ad dicat sanctus detracto vis. Eos modus dolorum ex, qui adipisci maiestatis inciderint no, eos in elit dicat.....</p>
+                        <h3><strong>4x2 Chevrolet Orlando</strong></h3>
+                            <p>Un auto para la familia, multifacético e inteligente con una comodidad única y un espacio amplio.</p>
                            <ul class="add_info">
                             <li>
                               <div class="tooltip_styled tooltip-effect-4">
@@ -143,7 +143,7 @@
                     	<div class="tour_list_desc">
                            <div class="rating"><i class="icon-smile voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile voted"></i></div>
                     		<h3><strong>Van Hyundai</strong></h3>
-                            <p>Lorem ipsum dolor sit amet, quem convenire interesset ut vix, ad dicat sanctus detracto vis. Eos modus dolorum ex, qui adipisci maiestatis inciderint no, eos in elit dicat.....</p>
+                            <p>Percibirás el amplio interior y la comodidad de su espacio. Por donde lo mire es sinónimo de potencia, fuerza y dinamismo.</p>
                             <ul class="add_info">
                             <li>
                               <div class="tooltip_styled tooltip-effect-4">
@@ -198,7 +198,7 @@
                     	<div class="tour_list_desc">
                            <div class="rating"><i class="icon-smile voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile  voted"></i><i class="icon-smile voted"></i></div>
                     		<h3><strong>Minibus Mercedes Benz</strong></h3>
-                            <p>Lorem ipsum dolor sit amet, quem convenire interesset ut vix, ad dicat sanctus detracto vis. Eos modus dolorum ex, qui adipisci maiestatis inciderint no, eos in elit dicat.....</p>
+                            <p>Línea ejecutiva utilitaria de transporte, confortable y espaciosa, ideal para viajes largos y rutas vip.</p>
                            <ul class="add_info">
                             <li>
                               <div class="tooltip_styled tooltip-effect-4">
