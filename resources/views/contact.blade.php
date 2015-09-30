@@ -95,7 +95,7 @@
 				
 				<ul id="contact-info">
 					
-					<li><a href="#">info@domain.com</a></li>
+					<li><a href="#">info@viajesicaparacas.com</a></li>
 				</ul>
 			</div>
 			<div class="box_style_4">
